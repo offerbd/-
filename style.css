@@ -157,6 +157,8 @@ form input{
 }
 #status.success {
     background-color: rgb(211, 250, 153);
+    font-weight: bold;
+    font-size: 30px;
     animation: status 4s ease forwards;
   }
   #status.error {
